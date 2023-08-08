@@ -63,9 +63,9 @@ function Contact() {
                     </i>
                     <h3>Address</h3>
                     <p>
-                      No 28, Bishops Court, beside Imo State University
+                      Eziobodo, Federal Univerity Of Technology Owerri.
                       <br />
-                      Owerri-North, Owerri, Imo State
+                      Owerri, Imo State
                     </p>
                   </div>
                 </div>
@@ -84,7 +84,8 @@ function Contact() {
                     <p>
                       Owerri
                       <br />
-                      +234 000 000 000
+                      +234 903-069-2235
+                      +234 905-690-2085
                     </p>
                   </div>
                 </div>
