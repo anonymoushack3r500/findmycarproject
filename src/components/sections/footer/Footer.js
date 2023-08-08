@@ -178,13 +178,13 @@ function Footer() {
 
             <FadeIn>
               <p className="copyright">
-                &copy; 2022{" "}
+                &copy; 2023{" "}
                 <a
                   href="https://www.okereke.dev/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Okereke Chinweotito
+                  PRINCEWILL AND SENATOR
                 </a>
                 . All Rights Reserved
               </p>
